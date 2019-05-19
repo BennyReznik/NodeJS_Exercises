@@ -1,0 +1,8 @@
+Q: Are requests processed concurrently or sequentially?
+A: Sequentially, each request calls sleep which blocks the event loop and only after all calls to the server are done the responses are returned.
+
+Q: When are the client call completion callbacks executed?
+A: After all the requests from the client are finished and the last request steps out from the sleep.
+
+Q: How many occur at around the same time?
+A: 
