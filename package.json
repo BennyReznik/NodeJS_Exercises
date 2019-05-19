@@ -1,0 +1,8 @@
+{
+  "name": "exercises-benny-reznik",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node exercise1-bennyreznik/index.js"
+  }
+}

@@ -1,0 +1,2 @@
+Q: How many requests completed around the same time?
+A: The requests finished one after the other

@@ -1,0 +1,2 @@
+Q: How many requests completed around the same time?
+A: Four requests completed around the same time, one for each worker.

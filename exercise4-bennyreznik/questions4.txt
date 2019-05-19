@@ -1,0 +1,2 @@
+Q: How many requests completed around the same time?
+A: All the requests finish around the same time, each fork creates a new process with a new event loop which runs seperately and returns the response.
